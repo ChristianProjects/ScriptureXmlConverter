@@ -20,5 +20,3 @@ todo:
 * document a bit the code
 * test with small example of xml matching the format
 * test with actual Scripture
-
-
