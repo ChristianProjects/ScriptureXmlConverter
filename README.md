@@ -20,3 +20,10 @@ todo:
 * document a bit the code
 * test with small example of xml matching the format
 * test with actual Scripture
+
+
+other converters:
+* https://github.com/schierlm/BibleMultiConverter
+
+license:
+  MIT : look in [LICENSE file](LICENSE)
